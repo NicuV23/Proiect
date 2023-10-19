@@ -114,8 +114,7 @@ body {
     content: url(images/image-product-mobile.jpg);
   }
 
-  .img_container,
-  .details_container {
+  .full {
     flex-direction: column;
   }
 
